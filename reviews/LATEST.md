@@ -1,5 +1,5 @@
-# Session review: Fri Nov 20, 2026
-Last session (ranked) · 9:53 PM – 10:49 PM · 16 games
+# Session review: Sat Nov 28, 2026
+Today (ranked) · 3:44 PM – 4:26 PM · 13 games
 
 Reviewing **ranked games only**.
 
@@ -7,19 +7,19 @@ Reviewing **ranked games only**.
 
 | Mode | Games | Record |
 |---|---|---|
-| Ranked | 16 | 8–8 (50%) |
-| **All** | 16 | **8–8 (50%)** |
+| Ranked | 13 | 6–7 (46%) |
+| **All** | 13 | **6–7 (46%)** |
 
-Ranked this session: **50%** vs **54%** across your 1661 earlier stored ranked games.
+Ranked this session: **46%** vs **54%** across your 1677 earlier stored ranked games.
 
 ## How the losses went
 
 |  | Games |
 |---|---|
-| Close (lost by 1 round) | 4 |
-| Lost by 2 rounds | 4 |
-| Blowouts (lost by 3+ rounds) | 0 |
-| Close wins (won by 1 round) | 3 |
+| Close (lost by 1 round) | 2 |
+| Lost by 2 rounds | 3 |
+| Blowouts (lost by 3+ rounds) | 2 |
+| Close wins (won by 1 round) | 4 |
 
 Close losses are matchups you're nearly solving. Blowouts are the ones to lab.
 
@@ -29,27 +29,26 @@ Back-to-back games against the same character at the same rank. In ranked these 
 
 | Set | Mode | When | Record | Round margin, early → late |
 |---|---|---|---|---|
-| Victor vs Lili (God of Destruction III) | ranked | 10:35 PM – 10:43 PM | 1–2 (33%) | widening (-2.0 → +1.0) |
+| Victor vs Zafina (God of Destruction V) | ranked | 3:44 PM – 3:50 PM | 1–2 (33%) | tightening (+3.0 → +0.5) |
+| Victor vs Lili (God of Destruction V) | ranked | 4:01 PM – 4:08 PM | 1–2 (33%) | steady (+1.0 → +1.0) |
 
 Round margin is the opponent's rounds minus yours, averaged: a number moving toward zero or below means the set was getting closer.
 
 ## Streaks
 
-- Longest losing streak: **3** (10:39 PM – 10:46 PM), 2 of the 3 were rematch-set games (mostly vs Lili), so this is mainly the set, not tilt.
-- Longest winning streak: **2** (9:53 PM – 9:56 PM)
+- Longest losing streak: **4** (3:50 PM – 4:01 PM), 2 of the 4 were rematch-set games (mostly vs Zafina), so this is mainly the set, not tilt.
+- Longest winning streak: **4** (4:16 PM – 4:26 PM)
 
 ## Opponents
 
 | Character | Games | Record | Guide |
 |---|---|---|---|
 | Lili | 3 | 1–2 (33%) | [guide](https://claude.ai/artifact/K1qur7ndKEd2GS4UdBPzAE) |
-| Armor King | 2 | 2–0 (100%) | [guide](https://claude.ai/artifact/MN71CqcFqU262aVBG9XS3v) |
-| Law | 2 | 1–1 (50%) | queue #32 |
-| Leo | 2 | 0–2 (0%) | [guide](https://claude.ai/artifact/DzHq3pwp1HijmP2PzmgoS8) |
-| Leroy | 2 | 2–0 (100%) | queue #31 |
-| Paul | 2 | 2–0 (100%) | queue #27 |
-| Reina | 2 | 0–2 (0%) | [guide](https://claude.ai/artifact/6rsmupTaUPqyeVoK5BUpF9) |
-| Fahkumram | 1 | 0–1 (0%) | [guide](https://claude.ai/artifact/CxhdaYxmARhD56Et5SzQgt) |
+| Zafina | 3 | 1–2 (33%) | [guide](https://claude.ai/artifact/GmJL19EM42iz5mrvguwuqK) |
+| Heihachi | 2 | 0–2 (0%) | [guide](https://claude.ai/artifact/GC1pfnnGpScaqrFqKQN5KP) |
+| Kazuya | 2 | 2–0 (100%) | [guide](https://claude.ai/artifact/Xfsnc1CiuJ7rhcaSws1ZGs) |
+| Kuma | 2 | 2–0 (100%) | [guide](https://claude.ai/artifact/X3dJTmZ2oMJdg6KWNuQkz6) |
+| Jun | 1 | 0–1 (0%) | [guide](https://claude.ai/artifact/Y3cg2ePUbbTTkhJ5bZEBXi) |
 
 ## Matchup standings
 
@@ -57,36 +56,32 @@ Ranked as **Victor**, every character with 10+ games, through this session. The 
 
 | # | Top peaks | Deepest lows |
 |---|---|---|
-| 1 | Heihachi 82% (18–4) | Leo 25% (5–15) |
-| 2 | Fahkumram 76% (19–6) | Kuma 30% (3–7) |
-| 3 | Law 73% (35–13) | Alisa 30% (3–7) |
-| 4 | Lee 70% (14–6) | Dragunov 37% (15–26) |
-| 5 | Yoshimitsu 67% (18–9) | Shaheen 38% (8–13) |
+| 1 | Fahkumram 76% (19–6) | Leo 25% (5–15) |
+| 2 | Heihachi 75% (18–6) | Alisa 30% (3–7) |
+| 3 | Law 73% (35–13) | Dragunov 37% (15–26) |
+| 4 | Lee 70% (14–6) | Shaheen 38% (8–13) |
+| 5 | Yoshimitsu 67% (18–9) | Lars 39% (7–11) |
 
 | Faced this session | Standing | Record this session | Move |
 |---|---|---|---|
-| Fahkumram | #2 of 40 | 0–1 (0%) | held #2 |
-| Law | #3 of 40 | 1–1 (50%) | held #3 |
-| Paul | #11 of 40 | 2–0 (100%) | up 2 (#13 → #11) |
-| Lili | #13 of 40 | 1–2 (33%) | down 3 (#10 → #13) |
-| Leroy | #20 of 40 | 2–0 (100%) | up 8 (#28 → #20) |
-| Armor King | #24 of 40 | 2–0 (100%) | up 1 (#25 → #24) |
-| Reina | #27 of 40 | 0–2 (0%) | down 4 (#23 → #27) |
-| Leo | #40 of 40 | 0–2 (0%) | held #40 |
+| Heihachi | #2 of 41 | 0–2 (0%) | down 1 (#1 → #2) |
+| Kazuya | #13 of 41 | 2–0 (100%) | up 4 (#17 → #13) |
+| Lili | #16 of 41 | 1–2 (33%) | down 3 (#13 → #16) |
+| Jun | #20 of 41 | 0–1 (0%) | down 6 (#14 → #20) |
+| Kuma | #33 of 41 | 2–0 (100%) | up 6 (#39 → #33) |
+| Zafina | #34 of 41 | 1–2 (33%) | new (reached 10 games) |
 
 ## Stages
 
 | Stage | Games | Record |
 |---|---|---|
-| Sanctum | 6 | 2–4 (33%) |
-| Arena Underground | 2 | 1–1 (50%) |
-| Baobab Horizon | 2 | 2–0 (100%) |
-| Fallen Destiny | 2 | 0–2 (0%) |
-| Midnight Siege | 2 | 2–0 (100%) |
-| Descent into Subconscious | 1 | 0–1 (0%) |
-| Ortiz Farm | 1 | 1–0 (100%) |
+| Genmaji Temple Daytime | 4 | 2–2 (50%) |
+| Coliseum of Fate | 3 | 1–2 (33%) |
+| Phoenix Gate | 3 | 1–2 (33%) |
+| Descent into Subconscious | 2 | 2–0 (100%) |
+| Seaside Resort | 1 | 0–1 (0%) |
 
 One session is too few games per stage to judge a stage; use the Battle Log sheet for that.
 
 ---
-Generated Nov 20, 2026 10:55 PM from data/battles.jsonl. A session is a run of games with no break of 45+ minutes.
+Generated Nov 28, 2026 4:27 PM from data/battles.jsonl. A session is a run of games with no break of 45+ minutes.
